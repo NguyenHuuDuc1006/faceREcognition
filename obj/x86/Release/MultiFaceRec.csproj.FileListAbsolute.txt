@@ -1,0 +1,3 @@
+D:\Hoctap\20172\ProjectIII\FaceRecProOV\obj\x86\Release\MultiFaceRec.FrmPrincipal.resources
+D:\Hoctap\20172\ProjectIII\FaceRecProOV\obj\x86\Release\MultiFaceRec.Properties.Resources.resources
+D:\Hoctap\20172\ProjectIII\FaceRecProOV\obj\x86\Release\MultiFaceRec.csproj.GenerateResource.Cache
